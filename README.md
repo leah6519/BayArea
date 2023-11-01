@@ -8,8 +8,8 @@ Analysis of a dataset (from FeederWatch) containing measurements of flock sizes 
 
 ## Part 2: Working with the data
 
-- Filtering by year
-- Computing statistical values (mean, proportions)
+- Filtering
+- Computing mean and proportions
 
 ## Part 3: EDA
 
